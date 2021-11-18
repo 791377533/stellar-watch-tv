@@ -1,2 +1,2 @@
 # stellar-watch-tv
-看电视
+看看电视
